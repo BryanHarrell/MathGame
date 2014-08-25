@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  TipCalculator
+//  MathGame
 //
 //  Created by Bryan Harrell on 18/08/2014.
 //  Copyright (c) 2014 Bryan Harrell. All rights reserved.
